@@ -12,7 +12,7 @@
 
 </div>
 
-Former low-level systems (kernels, CPU emulators, ...) and devops engineer, now focused on AI safety & security. I believe engineers & researchers have an outsized responsibility and opportunity to steer this technology.
+Former low-level systems (kernels, CPU emulators, ...) and devops engineer now focused on AI safety & security.
 
 🤝 Happy to collaborate on any **high-impact project** - <a href="mailto:github.cognition812@passmail.net" target="_blank">reach out anytime</a></br>
 💬 <a href="https://www.admonymous.co/leo-karoubi" target="_blank">Leave me anonymous (or not) feedback</a></br>
